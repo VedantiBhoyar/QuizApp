@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="408dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="506dp"
+        android:background="@color/blue"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:title="QuizApp"
+        app:titleTextColor="@color/white" />
+
+    <TextView
+        android:id="@+id/DispName"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:textSize="20dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="112dp"
+        android:textColor="@color/accent_material_light" />
+
+    <RadioGroup android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/DispName"
+        android:layout_alignStart="@+id/DispName"
+        android:id="@+id/answersgrp"
+        android:clickable="true"
+        android:layout_centerVertical="true">
+
+        <RadioButton
+            android:id="@+id/radioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="A" />
+
+        <RadioButton android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="B"
+            android:id="@+id/radioButton2"
+            android:checked="false"/>
+
+        <RadioButton android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="C"
+            android:id="@+id/radioButton3" android:checked="false"/>
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="D" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="310dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/answersgrp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="47dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginRight="45dp"
+        android:backgroundTint="@color/orange"
+        android:text="Next Question"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/buttonquit"
+        android:layout_width="310dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/button3"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginRight="45dp"
+        android:backgroundTint="@color/blue"
+        android:text="Quit"
+        android:textColor="@color/white" />
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Questions"
+        android:id="@+id/tvque"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_marginBottom="52dp"
+        android:layout_above="@+id/answersgrp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="115dp"
+        android:layout_height="39dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginBottom="36dp"
+        android:text="Your Score"
+        android:textColor="@color/black"
+        android:textSize="19dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="89dp"
+        android:layout_height="38dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="35dp"
+        android:text="0"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="19dp" />
+</RelativeLayout>
