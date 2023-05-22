@@ -34,23 +34,32 @@ ScreenShot Of QuizzApp:
 
 To start a Quiz you must enter your name otherwise it will display Toast Message that "First Enter Your Name to Start a Quiz"..
 
-QuizzApp1
+![QuizApp1](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/96d623ac-c420-46e6-ad21-3ce051d199a3)
+
 
 A Quiz will start only if user enters the name.
 
-QuizzApp2
+![QuizApp2](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/f0e23b08-52ca-45be-aa0d-a1456f6f42dd)
+
 
 This page contains one question which has 4 options and only one option is correct,If user doesn't select one of the option toast message will appear to select one of the option.If selected ans is correct then toast message will appear showing correct message if it is wrong it will show wrong message.
 
-QuizzApp3
+
+![Screenshot (36)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/c6ef3855-8b40-4b6e-8996-bfe548cc99c5)
+
+
+![Screenshot (38)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/cf5895e5-59c2-447f-a60e-435a01fc04be)
+
 
 This is the result page which contains number of correct questions attempted by user along with wrong questions and final score.
 
-QuizApp
+![Screenshot (39)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/98593852-1927-4cb0-bf64-880ca951ccdd)
+
 
 This is the about page which cotains the static information regarding the developers.
 
-QuizzApp5
+
+![Screenshot (40)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/f1876efd-04a3-4993-a25e-aafc56d616f5)
 
 
 This Video illustrates how the application works:
