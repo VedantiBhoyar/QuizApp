@@ -52,4 +52,11 @@ This is the about page which cotains the static information regarding the develo
 
 QuizzApp5
 
+
 This Video illustrates how the application works:
+
+https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/985314fa-c6d5-41e7-86a5-d2150942013e
+
+
+
+
