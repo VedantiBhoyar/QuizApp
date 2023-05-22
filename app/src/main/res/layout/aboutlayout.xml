@@ -8,10 +8,10 @@
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
-        android:layout_width="408dp"
+        android:layout_width="match_parent"
         android:layout_height="60dp"
         android:layout_marginBottom="506dp"
-        android:background="@color/blue"
+        android:background="#632929"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:title="QuizApp"
@@ -102,7 +102,7 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="358dp"
+        android:layout_width="400dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/imageView2"
         android:layout_marginStart="39dp"
