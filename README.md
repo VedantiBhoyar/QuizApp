@@ -72,7 +72,7 @@ This is the result page which contains number of correct questions attempted by 
 
 #
 
-This Video illustrates how the application works:
+<h3>This Video illustrates how the application works:</h3>
 
 
 https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/dd719acb-64e8-46b9-b20f-ac9fa67a7069
