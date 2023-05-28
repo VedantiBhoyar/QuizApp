@@ -35,33 +35,30 @@ ScreenShot Of QuizzApp:
 To start a Quiz you must enter your name otherwise it will display Toast Message that "First Enter Your Name to Start a Quiz"..
 
 
-![QuizzApp1](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/3ef0d466-e70f-49e2-a9e9-9424a7c9c5a1)
+![Screenshot (51)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/368319ad-dd06-4a47-bf36-44eab1c0f613)
+
 
 
 A Quiz will start only if user enters the name.
 
 
-![QuizApp2](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/38a6140f-f0f1-4eb3-8150-feae0ea6bfab)
+![Screenshot (52)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/f956a667-56de-4a15-967b-aeb33afa8cbb)
 
 
 This page contains one question which has 4 options and only one option is correct,If user doesn't select one of the option toast message will appear to select one of the option.If selected ans is correct then toast message will appear showing correct message if it is wrong it will show wrong message.
 
 
-![Screenshot (36)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/c6ef3855-8b40-4b6e-8996-bfe548cc99c5)
+![Screenshot (53)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/51aaa450-8712-4e59-b422-4eb88f282097)
 
 
-![Screenshot (38)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/cf5895e5-59c2-447f-a60e-435a01fc04be)
+
+![Screenshot (54)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/38e8d503-37b6-47fc-8edc-d0dc255d82d0)
 
 
 This is the result page which contains number of correct questions attempted by user along with wrong questions and final score.
 
-![Screenshot (39)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/98593852-1927-4cb0-bf64-880ca951ccdd)
 
-
-This is the about page which cotains the static information regarding the developers.
-
-
-![Screenshot (40)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/f1876efd-04a3-4993-a25e-aafc56d616f5)
+![Screenshot (55)](https://github.com/VedantiBhoyar/QuizApplication/assets/71519458/04735e9c-0c0b-47d2-b22a-8ffa8deabe0e)
 
 
 This Video illustrates how the application works:
