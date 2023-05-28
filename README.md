@@ -1,5 +1,5 @@
 
-This is QuizApp in Android which contains multiple choice questions.<br>
+<h1>This is QuizApp in Android which contains multiple choice questions.<h1><br>
 The Topics Covered in this Project are: <br>
 1.Activity<br>
 2.Intent<br>
