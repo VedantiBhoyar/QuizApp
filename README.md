@@ -5,6 +5,8 @@ The Topics Covered in this Project are:
 2.Intent
 3.Android UI and Layouts
 
+#
+
 Before moving towards project let understand the following topics:
 
 1.Activity: An Activity is an fundamental component that provides a screen with which users can interact in order to do something.
