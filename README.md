@@ -9,22 +9,22 @@ Before moving towards project let understand the following topics:
 
 #
 
-1.Activity: An Activity is an fundamental component that provides a screen with which users can interact in order to do something.
+<h3>1.Activity:</h3> An Activity is an fundamental component that provides a screen with which users can interact in order to do something.
 Android activity is the subclass of ContextThemeWrapper class.
 
 #
 
-2.Intent: Android uses Intent for communicating between the components of an Application and also from one application to another application. 
+  <h3>2.Intent:</h3> Android uses Intent for communicating between the components of an Application and also from one application to another application. 
 Intent are the objects which is used in android for passing the information among Activities in an Application and from one app to another also.
 
-There are three types of intents: 
-i).Explicit Intent 
-ii)Implicit Intent 
-iii)Pending Intent
+There are three types of intents: <br>
+i).Explicit Intent <br>
+ii)Implicit Intent <br>
+iii)Pending Intent<br>
 
 #
 
-3.Android UI and Layouts: Android Layout is used to define the user interface that holds the UI controls or widgets that will appear on the screen of an android 
+<h3>3.Android UI and Layouts:</h3> Android Layout is used to define the user interface that holds the UI controls or widgets that will appear on the screen of an android 
 application or activity screen. Generally, every application is a combination of View and ViewGroup. As we know, an android application contains a large number of
 activities and we can say each activity is one page of the application. So, each activity contains multiple user interface components and those components are the 
 instances of the View and ViewGroup. All the elements in a layout are built using a hierarchy of View and ViewGroup objects.
@@ -40,7 +40,7 @@ this is for handdling the questions and answers ,QuitMainActivity2.java is for s
 
 #
 
-ScreenShot Of QuizzApp:
+<h3>ScreenShot Of QuizzApp:</h3>
 
 To start a Quiz you must enter your name otherwise it will display Toast Message that "First Enter Your Name to Start a Quiz"..
 
